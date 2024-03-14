@@ -1,8 +1,7 @@
 # ProductSales-View
 An attempt in making efficient dashboard leveraging Power BI
 
-<img
-![image](https://github.com/abhilashaojha/ProductSales-View/assets/77577111/10c3593e-b7cd-4fbf-8470-b219515fac8a) width=500 height=700>
+<img src="![image](https://github.com/abhilashaojha/ProductSales-View/assets/77577111/10c3593e-b7cd-4fbf-8470-b219515fac8a)" width=500 height=700>
 
 
 https://github.com/abhilashaojha/ProductSales-View/assets/77577111/198ac127-1abd-4bb7-a9a6-7a4493aad784
